@@ -72,10 +72,10 @@ Contributions are always welcome!
 
 ## Containers
 
-- [ ] [Introduction to Docker and Containers](http://container.training/intro-selfpaced.yml.html)
-- [ ] [Containers Patterns](https://l0rd.github.io/containerspatterns)
-- [ ] [Docker Container Anti Patterns](https://blog.couchbase.com/docker-container-anti-patterns/)
-- [ ] [Anti-Patterns When Building Container Images](https://jpetazzo.github.io/2021/11/30/docker-build-container-images-antipatterns)
+- [x] [Introduction to Docker and Containers](http://container.training/intro-selfpaced.yml.html)
+- [x] [Containers Patterns](https://l0rd.github.io/containerspatterns)
+- [x] [Docker Container Anti Patterns](https://blog.couchbase.com/docker-container-anti-patterns/)
+- [x] [Anti-Patterns When Building Container Images](https://jpetazzo.github.io/2021/11/30/docker-build-container-images-antipatterns)
 
 ## Kubernetes
 
