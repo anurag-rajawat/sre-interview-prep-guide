@@ -96,12 +96,12 @@ Contributions are always welcome!
 
 ## Infrastructure as code / Configuration management
 
-- [ ] [Terraform](https://learn.hashicorp.com/terraform)
-- [ ] [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca)
+- [x] [Terraform](https://learn.hashicorp.com/terraform)
+- [x] [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca)
 - [ ] [Ansible](https://github.com/leucos/ansible-tuto)
-- [ ] [Getting Started With Terraform on AWS](https://spacelift.io/blog/terraform-tutorial)
-- [ ] [Google Cloud: Best practices for using Terraform](https://cloud.google.com/docs/terraform/best-practices-for-terraform)
-- [ ] [Terraform Roadmap](https://roadmap.sh/terraform)
+- [x] [Getting Started With Terraform on AWS](https://spacelift.io/blog/terraform-tutorial)
+- [x] [Google Cloud: Best practices for using Terraform](https://cloud.google.com/docs/terraform/best-practices-for-terraform)
+- [x] [Terraform Roadmap](https://roadmap.sh/terraform)
 
 ## Databases
 
